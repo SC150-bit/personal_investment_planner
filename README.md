@@ -26,7 +26,7 @@
 Clone the repo and install dependencies:
 
 \`\`\`bash
-git clone https://github.com/your-username/personal-investment-planner.git
+git clone https://github.com/SC150-bit/personal-investment-planner.git
 cd personal-investment-planner
 npm install
 \`\`\`
